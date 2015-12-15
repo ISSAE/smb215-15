@@ -1,3 +1,6 @@
 [submodule "SMB215"]
 	path = SMB215
 	url = https://github.com/antoine-ghosn/SMB215.git
+[submodule "majedAbouHamdan/gestion-Stock-Webapp"]
+	path = majedAbouHamdan/gestion-Stock-Webapp
+	url = git@github.com:majedlb/gestion-Stock-Webapp-COMPLET.git
